@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmKayitOlEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRezervasyonIptalEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmGirisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKonaklamaEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRaporlamaEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRezervasyonEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUlasimEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
